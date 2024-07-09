@@ -1,0 +1,4 @@
+name: GiftBlocks
+version: '${version}'
+main: com.nextdevv.giftblocks.GiftBlocks
+api-version: '1.17'
